@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
