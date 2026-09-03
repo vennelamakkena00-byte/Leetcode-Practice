@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
