@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
