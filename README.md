@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
