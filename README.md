@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0835-image-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
