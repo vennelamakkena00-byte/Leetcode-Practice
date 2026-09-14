@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
