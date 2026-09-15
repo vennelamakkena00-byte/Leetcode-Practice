@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
