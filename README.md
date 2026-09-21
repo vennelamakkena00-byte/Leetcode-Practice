@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [3524-find-x-value-of-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
