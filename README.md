@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
@@ -202,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
