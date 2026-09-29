@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
