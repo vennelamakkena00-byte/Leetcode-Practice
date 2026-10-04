@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0015-3sum) |
 | [0835-image-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0015-3sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0015-3sum) |
 | [1096-brace-expansion-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
