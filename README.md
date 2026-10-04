@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0835-image-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
