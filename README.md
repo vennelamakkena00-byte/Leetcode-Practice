@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0015-3sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
