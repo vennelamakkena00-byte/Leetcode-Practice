@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2409-count-days-spent-together](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/vennelamakkena00-byte/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
